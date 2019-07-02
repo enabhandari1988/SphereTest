@@ -14,3 +14,7 @@ SpecFlow" version="3.0.220"
 "NUnit3TestAdapter"
 "xunit.assert" 
 "Utf8Json"
+"SpecFlow.Tools.MsBuild.Generation"
+
+You can also run the project by using runtest.cmd file 
+Set the Environment Variable of your machine to MSBuild.exe
